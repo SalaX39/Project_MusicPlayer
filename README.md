@@ -1,2 +1,2 @@
 # Project_MusicPlayer
-1-Course python project used Django
+1-Course python project used Django & Database
